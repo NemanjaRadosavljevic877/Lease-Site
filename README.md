@@ -22,9 +22,9 @@ One of the key features is the ability to get a price quote and begin a car rese
 |  |  |
 |---|---|
 |  Home page  | Fleet page |
-|![Screenshot](https://github.com/ben-oldham1/lease/blob/main/screenshots/home.png)  |  ![Screenshot](https://github.com/ben-oldham1/lease/blob/main/screenshots/fleet.png) |
+|![Screenshot](./screenshots/home.png)  |  ![Screenshot](./screenshots/fleet.png) |
 | Branches page |  Reservations page |
-|![Screenshot](https://github.com/ben-oldham1/lease/blob/main/screenshots/branches.png)  |  ![Screenshot](https://github.com/ben-oldham1/lease/blob/main/screenshots/reserve.png) |
+|![Screenshot](./screenshots/branches.png)  |  ![Screenshot](./screenshots/reserve.png) |
 
 
 ## If you want to clone
